@@ -1,0 +1,4 @@
+pandas~=1.2.4
+scikit-learn~=1.0.1 # Requirement of imblearn anyway
+imbalanced-learn~=0.8.1
+joblib~=0.17.0
